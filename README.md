@@ -36,8 +36,7 @@ below are a list of tools i used to help mme with the analysis
 •	Seaborn: for data visualizations
 •	Matplotlib: for data visualizations
 •	SciPy: for mathematical equations
-• quandl for time series analysis
-
+•	Quandl for time series analysis
 ```
 
 ## Resources
