@@ -1,9 +1,6 @@
 # Wind-Turbine-Analysis
 Student Project
 
-# Python Analysis
-# Tableau Presentation
-
 In this project i used Python to wrangle, analyze and generate visualisations from several datasets from the German Data Registry.
 The datasets are on wind turbines in Germany.
 
@@ -39,7 +36,7 @@ below are a list of tools i used to help mme with the analysis
 •	Seaborn: for data visualizations
 •	Matplotlib: for data visualizations
 •	SciPy: for mathematical equations
-- quandl for time series analysis
+• quandl for time series analysis
 
 ```
 
