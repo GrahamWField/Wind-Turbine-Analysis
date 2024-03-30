@@ -37,6 +37,8 @@ below are a list of tools i used to help mme with the analysis
 •	Matplotlib: for data visualizations
 •	SciPy: for mathematical equations
 •	Quandl for time series analysis
+•	Sklearn for machine learning
+•	Folium for geographic visualisations
 ```
 
 ## Resources
@@ -47,9 +49,8 @@ Wind Turbine Data
 German government Data Registry (Marktstammdatenregister)
 https://www.marktstammdatenregister.de/MaStR/Datendownload 
   
-JSON file 
+JSON file - Geographic Data
 GitHub
-
 https://github.com/isellsoap/deutschlandGeoJSON/blob/main/2_bundeslaender/1_sehr_hoch.geo.json
 
 
